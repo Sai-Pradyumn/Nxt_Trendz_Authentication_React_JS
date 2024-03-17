@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nxt_Trendz_Authentication_React_JS/static/css/main.8a496ab4.chunk.css",
+    "main.js": "/Nxt_Trendz_Authentication_React_JS/static/js/main.bed4c452.chunk.js",
+    "main.js.map": "/Nxt_Trendz_Authentication_React_JS/static/js/main.bed4c452.chunk.js.map",
+    "runtime-main.js": "/Nxt_Trendz_Authentication_React_JS/static/js/runtime-main.79641b51.js",
+    "runtime-main.js.map": "/Nxt_Trendz_Authentication_React_JS/static/js/runtime-main.79641b51.js.map",
+    "static/js/2.0336ddea.chunk.js": "/Nxt_Trendz_Authentication_React_JS/static/js/2.0336ddea.chunk.js",
+    "static/js/2.0336ddea.chunk.js.map": "/Nxt_Trendz_Authentication_React_JS/static/js/2.0336ddea.chunk.js.map",
+    "index.html": "/Nxt_Trendz_Authentication_React_JS/index.html",
+    "static/css/main.8a496ab4.chunk.css.map": "/Nxt_Trendz_Authentication_React_JS/static/css/main.8a496ab4.chunk.css.map",
+    "static/js/2.0336ddea.chunk.js.LICENSE.txt": "/Nxt_Trendz_Authentication_React_JS/static/js/2.0336ddea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79641b51.js",
+    "static/js/2.0336ddea.chunk.js",
+    "static/css/main.8a496ab4.chunk.css",
+    "static/js/main.bed4c452.chunk.js"
+  ]
+}
